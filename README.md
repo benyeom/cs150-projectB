@@ -24,11 +24,11 @@ There is a major global crisis regarding energy accessibility, with nearly a ten
 **Sets Used for Data Visualization**: World Bank. (2024). "World Development Indicators." Retrieved from [https://databank.worldbank.org/source/world-development-indicators](https://databank.worldbank.org/source/world-development-indicators). Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ## Strategies Used: 
+* Implemented a callback function that could compare 2 maps at once.
+* Intentionally chose map colors to be white-light blue in order to show less disparity for visualization.
 * Employed white space in both my Plotly dash and presentation. 
 * Margins remain free of text and visuals. 
 * Visuals are not stretched to take up the available space; instead, appropriately sized to my content. 	
 * The only thing on the page; a single sentence or even a single number. 
 * All text in the visual is the same size except where decisions were made to further emphasize or de‐emphasize components. 
 * The graph title is larger.
-* Implemented a callback function that could compare 2 maps at once.
-* Intentionally chose map colors to be white-light blue in order to show less disparity for visualization.
