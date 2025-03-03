@@ -30,3 +30,5 @@ There is a major global crisis regarding energy accessibility, with nearly a ten
 * The only thing on the page; a single sentence or even a single number. 
 * All text in the visual is the same size except where decisions were made to further emphasize or de‐emphasize components. 
 * The graph title is larger.
+* Implemented a callback function that could compare 2 maps at once.
+* Intentionally chose map colors to be white-light blue in order to show less disparity for visualization.
